@@ -26,7 +26,7 @@ def eliminar_elementos(list):
             suma.append(res)
     maximus = max(suma)
     minimus = min(suma)
-    print(maximus, minimus)
+    print(minimus, maximus)
     
 
 
